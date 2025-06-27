@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Data Alchemist - AI Resource Allocation Configurator
 
 Transform messy spreadsheets into clean, validated data with intelligent rules and prioritization.
